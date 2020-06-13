@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<defaultsMap>
+    <!-- Zendesk -->
+    <entry>
+        <key>zendesk_ticket</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>zendesk_ticket_domains</key>
+        <value>{"domains":[]}</value>
+    </entry>
+    <entry>
+        <key>zendesk_ticket_users</key>
+        <value>{"users":[],"emails":[]}</value>
+    </entry>
+    <entry>
+        <key>zendesk_ticket_domains_blacklist</key>
+        <value>{"domains":[]}</value>
+    </entry>
+    <entry>
+        <key>zendesk_ticket_users_blacklist</key>
+        <value>{"users":[],"emails":[]}</value>
+    </entry>
+
+    <entry>
+        <key>zendesk_chat_enabled</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>zendesk_chat_domains</key>
+        <value>{"domains":[]}</value>
+    </entry>
+    <entry>
+        <key>zendesk_chat_users</key>
+        <value>{"users":[],"emails":[]}</value>
+    </entry>
+    <entry>
+        <key>zendesk_chat_domains_blacklist</key>
+        <value>{"domains":[]}</value>
+    </entry>
+    <entry>
+        <key>zendesk_chat_users_blacklist</key>
+        <value>{"users":[],"emails":[]}</value>
+    </entry>
+    <!-- End Zendesk -->
+
+    <!-- Auto Log Reporting -->
+    <entry>
+        <key>auto_report_domains</key>
+        <value>{"users":[],"emails":[]}</value>
+    </entry>
+    <entry>
+        <key>auto_report_users</key>
+        <value>{"users":[],"emails":[]}</value>
+    </entry>
+    <!-- End Auto Log Reporting -->
+
+
+
+</defaultsMap>
